@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FIRSTTEST.git/static/css/main.d221dc40.css",
+    "main.js": "/FIRSTTEST.git/static/js/main.7c8c58b4.js",
+    "index.html": "/FIRSTTEST.git/index.html",
+    "main.d221dc40.css.map": "/FIRSTTEST.git/static/css/main.d221dc40.css.map",
+    "main.7c8c58b4.js.map": "/FIRSTTEST.git/static/js/main.7c8c58b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.7c8c58b4.js"
+  ]
+}
